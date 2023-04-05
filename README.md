@@ -1,6 +1,6 @@
 # Overview
 This software is a basic structure of a Real estate bidding interface. It will allow users to bid on listings, create listing, view listing, and remove listings. It uses a Hashmap to store all these listings and contains 2 interfaces. 
-{Describe your purpose for writing this software.}
+
 I wrote this software as a demonstration of my ability with the Java language. However it does work as a real estate interface, just back end functions.
 
 [REO Demo](https://youtu.be/NF9YXoF9FIM)
